@@ -41,6 +41,6 @@ function createChart(json) {
 
 document.addEventListener('DOMContentLoaded', function() {
   //add event listener here for form submission
-  console.log("=== event ===")
+  console.log("=== DOMContentLoaded ===")
 
 })
